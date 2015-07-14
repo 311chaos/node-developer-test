@@ -2,7 +2,7 @@
 
 The objective to this application is to demonstrate your capabilities as a fullstack application developer. To keep the problem space small, we'll build a small application that is geared towards storing movies. 
 
-A basic project template has been created in this repository, feel free to download it, and utilize it.  Howerver, it's not necessary to do so.
+A basic project template has been created in this repository, feel free to download it, and utilize it.  However, it's not necessary to do so.
 
 
 ## Requirements
